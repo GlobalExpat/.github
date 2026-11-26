@@ -15,6 +15,10 @@ Original introductory worksheets, public documentation and educational reference
 - [Property research calculator: gross and net operating yield](property-investment-calculators/README.md) — How can I compare hypothetical rental income with purchase cost?
 - [Global Expat public media: editorial and citation guide](global-expat-media/README.md) — How should a journalist cite Global Expat information?
 
+## Multilingual resources
+
+- [Read the localized starter guides in 26 languages](i18n/README.md) for international property research and buyer education.
+
 ## Public references
 
 - [Official and WordPress link directory](PUBLIC_LINKS.md)

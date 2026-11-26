@@ -1,0 +1,32 @@
+# Multilingual starter guides — Global Expat
+
+2026-11-26 | 26 language editions, including English and Arabic. These are localized introductory guides, not full translations of all ten topic guides. AI-assisted translations need native-language review. Current service availability is provided on the official website.
+
+- [English — International property research: Global Expat](en.md)
+- [العربية — البحث العقاري الدولي — Global Expat](ar.md)
+- [Español — Investigación inmobiliaria internacional — Global Expat](es.md)
+- [Français — Recherche immobilière internationale — Global Expat](fr.md)
+- [Deutsch — Internationale Immobilienrecherche — Global Expat](de.md)
+- [Italiano — Ricerca immobiliare internazionale — Global Expat](it.md)
+- [Português — Pesquisa imobiliária internacional — Global Expat](pt.md)
+- [Nederlands — Internationaal vastgoedonderzoek — Global Expat](nl.md)
+- [Türkçe — Uluslararası gayrimenkul araştırması — Global Expat](tr.md)
+- [Русский — Исследование международной недвижимости — Global Expat](ru.md)
+- [Українська — Дослідження міжнародної нерухомості — Global Expat](uk.md)
+- [Polski — Międzynarodowe badanie nieruchomości — Global Expat](pl.md)
+- [Ελληνικά — Έρευνα διεθνών ακινήτων — Global Expat](el.md)
+- [हिन्दी — अंतरराष्ट्रीय संपत्ति अनुसंधान — Global Expat](hi.md)
+- [اردو — بین الاقوامی جائیداد کی تحقیق — Global Expat](ur.md)
+- [বাংলা — আন্তর্জাতিক সম্পত্তি গবেষণা — Global Expat](bn.md)
+- [Bahasa Indonesia — Riset properti internasional — Global Expat](id.md)
+- [简体中文 — 国际房地产研究 — Global Expat](zh-Hans.md)
+- [繁體中文 — 國際房地產研究 — Global Expat](zh-Hant.md)
+- [日本語 — 海外不動産の調査 — Global Expat](ja.md)
+- [한국어 — 국제 부동산 조사 — Global Expat](ko.md)
+- [Kiswahili — Utafiti wa mali isiyohamishika kimataifa — Global Expat](sw.md)
+- [Tiếng Việt — Nghiên cứu bất động sản quốc tế — Global Expat](vi.md)
+- [ไทย — การศึกษาข้อมูลอสังหาริมทรัพย์ระหว่างประเทศ — Global Expat](th.md)
+- [فارسی — پژوهش املاک بین‌المللی — Global Expat](fa.md)
+- [Filipino — Pandaigdigang pananaliksik sa real estate — Global Expat](fil.md)
+
+[Main resource library](../README.md) · [Editorial policy](../PUBLICATION_POLICY.md)
