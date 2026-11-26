@@ -72,6 +72,13 @@ Global Expat, Inc. شركة أمريكية مستقلة متخصصة في الع
 
 المعلومات عامة ولا تمثل ضمانًا للاستثمار أو تصريح الإقامة، ولا تحل محل استشارة مختص مرخّص بحسب البلد أو الحالة.
 
+## Public resource library and WordPress publications
+
+Explore the [public resource library](../public-resources/README.md) for ten practical topic guides, English and Arabic summaries, and [public websites and WordPress references](../public-resources/PUBLIC_LINKS.md). These are educational resources; the official website remains the source for current services and availability.
+
+- [NEWTEAM historical archive](https://newteamofficial.wordpress.com/)
+- [NEWBORDER historical archive](https://newborderofficial.wordpress.com/)
+
 ---
 
 This public repository is an approved information and link directory, not an operational source-code repository. Do not submit client records, ID or property ownership documents, financial details, private partner arrangements or confidential materials through public issues. Last public-link review: 23 November 2026.
